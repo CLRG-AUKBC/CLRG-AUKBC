@@ -1,4 +1,4 @@
-- Hi, We are Computational Linguistics Research Group @ AU-KBC Research Centre, Chennai, India.
+- Hi, We are Computational Linguistics Research Group (CLRG) @ AU-KBC Research Centre, Chennai, India.
 - The group consists of Computational Linguists and Language Technology Researchers.
 - The group works in the areas of Conversational AI, Indian Language Computing more focussed on Dravidian Languages, Hindi including English, Information Extraction, Machine Translation, Information Retrieval
 - The group is headed Dr. Sobha L who has more than 30 years of experience in Computational Linguistcis. 
