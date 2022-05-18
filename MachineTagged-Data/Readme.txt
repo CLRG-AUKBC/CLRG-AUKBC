@@ -1,2 +1,2 @@
 This folder of the repository consists of Machine Tagged Data.
-A 8.85 Crore Machine tagged data.
+A 8.80 Crore Machine tagged data.
